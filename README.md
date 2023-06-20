@@ -5,6 +5,7 @@ Complete all-in-one React tutorial by Dave Gray.
 ## Lessons
 
 1. Introduction
+2. App & JSX
 
 ## Links
 
@@ -15,4 +16,4 @@ Complete all-in-one React tutorial by Dave Gray.
 	- ```npx create-react-app <project>```
 	- file .gitignore is included
 	- [create-react-app.md](doc/create-react-app.md)
-- ...
+- JSX syntax extension
